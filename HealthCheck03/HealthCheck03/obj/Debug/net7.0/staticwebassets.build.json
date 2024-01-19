@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "svldxK7cEVbbzM3WxpyEW9Knv37NrTv5agLmdp2k1v4=",
+  "Source": "HealthCheck03",
+  "BasePath": "_content/HealthCheck03",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
